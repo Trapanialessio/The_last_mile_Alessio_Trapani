@@ -19,7 +19,6 @@
 	"objectTypes": {
 		"items": [
 			"Platform",
-			"Sprite",
 			"Sprite2"
 		],
 		"subfolders": []
